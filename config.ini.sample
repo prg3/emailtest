@@ -1,0 +1,8 @@
+[DEFAULT]
+emailfrom =
+emailto =
+smtpserver =
+popserver =
+popaccount =
+poppassword =
+maildelay = 
